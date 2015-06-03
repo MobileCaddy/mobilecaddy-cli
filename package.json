@@ -1,0 +1,33 @@
+{
+  "name": "mobilecaddy",
+  "version": "0.0.0",
+  "description": "Build mobile applications quickly for Salesforce.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mobilecaddy/mobilecaddy-cli"
+  },
+  "main": "index.js",
+  "bin": {
+    "mobilecaddy": "bin/mobilecaddy"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobilecaddy",
+    "salesforce",
+    "mobile",
+    "ionic"
+  ],
+  "dependencies": {
+    "colors": "^1.1.0",
+    "download": "^4.1.2",
+    "optimist": "~0.6.0",
+    "q": "1.0.1",
+    "replace": "^0.3.0",
+    "underscore": "~1.7.0"
+  },
+  "author": "MobileCaddy",
+  "license": "MIT",
+  "preferGlobal": true
+}
