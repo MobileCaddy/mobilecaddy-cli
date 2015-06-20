@@ -1,6 +1,6 @@
 {
   "name": "mobilecaddy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Build mobile applications quickly for Salesforce.com",
   "repository": {
     "type": "git",
@@ -11,7 +11,6 @@
     "mobilecaddy": "bin/mobilecaddy"
   },
   "scripts": {
-    "sub-install" : "./bin/npm-install.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
