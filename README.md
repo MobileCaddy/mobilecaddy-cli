@@ -18,8 +18,10 @@ mobilecaddy templates
 ### Create a new project from a template
 
 ```
-mobilecaddy new <template-name> <your-app-name>
+mobilecaddy new <template-name> <your-app-name> [--sudo]
 ```
+
+Supplying *--sudo* flag will run *npm install* commands with sudo (auto on Mac OS)
 
 ### Start your app in a local web server
 
