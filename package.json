@@ -1,6 +1,6 @@
 {
   "name": "mobilecaddy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Build mobile applications quickly for Salesforce.com",
   "repository": {
     "type": "git",
@@ -25,7 +25,10 @@
     "optimist": "~0.6.0",
     "q": "1.0.1",
     "replace": "^0.3.0",
-    "underscore": "~1.7.0"
+    "request": "^2.58.0",
+    "shelljs": "^0.5.1",
+    "underscore": "~1.7.0",
+    "unzip": "^0.1.11"
   },
   "author": "MobileCaddy",
   "license": "MIT",
