@@ -1,4 +1,22 @@
-### 0.0.4
+### 1.1.0
+
+
+#### Bug Fixes
+
+* For new project we now wait till 'npm install' process has completed
+
+#### Features
+
+* Better error output of trying to use app name that matches existing dir.
+* Better output during NPM install
+* Optionally run 'bower install' based upon existence of bower.json
+
+#### Breaking Changes
+
+* none
+
+
+### 1.0.0
 
 
 #### Bug Fixes
