@@ -1,3 +1,19 @@
+### 1.2.1
+
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Improved error output during renaming of tmp files when creating new project
+
+#### Breaking Changes
+
+* NONE
+
+
 ### 1.1.0
 
 
