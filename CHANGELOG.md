@@ -1,3 +1,33 @@
+### 2.2.1
+
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Protect against app bundle file sizes that breach static resource limit (5MB)
+
+#### Breaking Changes
+
+* NONE
+
+### 2.2.0
+
+
+#### Bug Fixes
+
+* NONE
+
+#### Features
+
+* Support for MobileCaddy v2 (Ionic v2+) apps
+
+#### Breaking Changes
+
+* NONE
+
 ### 1.2.1
 
 
