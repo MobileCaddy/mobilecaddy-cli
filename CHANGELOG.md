@@ -1,5 +1,10 @@
-### 2.2.1
+### 2.2.2
 
+#### Features
+
+* Node v20 Support
+
+### 2.2.1
 
 #### Bug Fixes
 
