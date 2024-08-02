@@ -1,3 +1,10 @@
+### 2.3.0
+
+#### Features
+
+* Ionic 6/7/8 build support
+
+
 ### 2.2.2
 
 #### Features
